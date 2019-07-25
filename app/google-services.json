@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161083859803",
+    "firebase_url": "https://wolfmodule-a19fb.firebaseio.com",
+    "project_id": "wolfmodule-a19fb",
+    "storage_bucket": "wolfmodule-a19fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161083859803:android:8f11c5c57c14117d",
+        "android_client_info": {
+          "package_name": "com.durgesh.wolfmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161083859803-j3ufpt1ukljgf3j06l5uej66beclo2f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.durgesh.wolfmodule",
+            "certificate_hash": "f37cdec2b3048076fd2e167cb89ad19ea053391b"
+          }
+        },
+        {
+          "client_id": "161083859803-p2801mdncf5lq09n71rph4dt4vasbjv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRXpC6_lmtyjkkBY9CvSlIK5rpqezd5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161083859803-p2801mdncf5lq09n71rph4dt4vasbjv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
